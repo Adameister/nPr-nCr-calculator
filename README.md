@@ -2,6 +2,8 @@
 A simple combination and permutation calculator
 
 ### README Sections
+  1. Solution
+  2. Implimentation
 
 ## Solution
 The code is written in C++.
