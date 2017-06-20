@@ -14,7 +14,7 @@ using namespace std;
 // Compute a real factorial
 // Carfull! This will exceed what an int can store quick
 int factorial( int a, int result ){
-  if( a == 1 ){
+  if( a == 1 || a == 0 ){
     return result;
   }
   else{
